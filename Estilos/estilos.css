@@ -1,4 +1,20 @@
 h1 {
     background-color:rgb(202, 38, 38);
     text-align: center;
+    color:whitesmoke;
     }
+h2{
+    color: rgb(202, 38, 38);
+}
+p{
+    text-align: justify;
+    padding:0% 5%;
+}
+#imagen1{
+    float:left;
+    padding-right: 2%;
+}
+#superior{
+    text-align:center;
+    color: rgb(202, 38, 38);   
+}
